@@ -1,5 +1,8 @@
 # Insurance Complaint Analysis & Prediction
 
+![image](https://github.com/user-attachments/assets/3c8127ee-d5b2-408e-a265-ad487e002b43)
+
+
 ## Project Overview
 This project analyzes and processes insurance complaint data using Databricks, PySpark, and machine learning techniques. The key steps include:
 
