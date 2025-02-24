@@ -1,4 +1,4 @@
-# Insurance Complaint Analysis & Prediction
+# Insurance Complaint Analysis & Fraud Prediction
 
 ![image](https://github.com/user-attachments/assets/3c8127ee-d5b2-408e-a265-ad487e002b43)
 
