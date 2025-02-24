@@ -44,7 +44,7 @@ To run this project, ensure the following:
 ### Step-by-Step Instructions
 
 ### 1. Download and Extract Files
-- Download the project zip file containing `AIT614-005-Team7.ipynb` and the dataset.
+- Download the project zip file containing `.ipynb` file and the dataset.
 - Extract the files to a local directory for the next steps.
 
 ### 2. Log in to Databricks Community
